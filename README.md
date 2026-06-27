@@ -3,7 +3,9 @@
 An end-to-end machine learning application that predicts telecom customer churn using a **Scikit-learn Pipeline**, **Random Forest Classifier**, and an interactive **Streamlit dashboard**. The platform combines business analytics, explainable AI, and customer retention recommendations to support business decision-making.
 
 ---
+## Live Demo
 
+[Open the Streamlit App](https://customer-churn-intelligence-platform-aflahsydcyziwqrhdb8.streamlit.app/)
 ## Application Preview
 
 ### Executive Dashboard
